@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1588781555 source:c:\users\andreea\documents\andreea\info\backtracking\fahnenspiel\main.cpp
+	<iostream>
+	<graphics.h>
+
+1589724458 source:c:\users\andreea\documents\andreea\lectii_!!!!!!!!!!!!!!!!!!!!!!!!!!!!\sc online\info\fahnenspiel\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+

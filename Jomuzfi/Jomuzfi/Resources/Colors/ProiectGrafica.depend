@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1559606791 source:c:\users\floricele\documents\andreea\proiectgrafica\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	<conio.h>
+	<math.h>
+	<dos.h>
+
+1559609062 source:f:\informatik\grafik\proiectgrafica\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	<conio.h>
+	<math.h>
+	<dos.h>
+
+1559630900 source:f:\informatik\grafik\comsa\proiectgrafica\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	<conio.h>
+	<math.h>
+	<dos.h>
+

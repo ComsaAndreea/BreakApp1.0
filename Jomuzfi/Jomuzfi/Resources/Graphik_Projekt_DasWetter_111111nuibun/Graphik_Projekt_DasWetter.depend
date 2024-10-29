@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1526834121 source:c:\users\floricele\desktop\11anagraphik\graphik_projekt_daswetter\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<string.h>
+
+1526879574 source:e:\informatik\graphik_projekt_daswetter\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<string.h>
+	<stdlib.h>
+
+1526884674 source:e:\informatik\graphik_projekt_daswetter_111111\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<string.h>
+	<stdlib.h>
+
+1527028732 source:f:\informatik\graphik_projekt_daswetter_111111\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<string.h>
+	<stdlib.h>
+
+1527028732 source:g:\informatik\graphik_projekt_daswetter_111111\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<string.h>
+	<stdlib.h>
+

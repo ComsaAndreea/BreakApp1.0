@@ -1,0 +1,132 @@
+C:\Users\Andreea\Documents\Andreea\LECTII_!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.csprojAssemblyReference.cache
+C:\Users\Andreea\Documents\Andreea\LECTII_!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.Form1.resources
+C:\Users\Andreea\Documents\Andreea\LECTII_!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.Properties.Resources.resources
+C:\Users\Andreea\Documents\Andreea\LECTII_!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.csproj.GenerateResource.cache
+C:\Users\Andreea\Documents\Andreea\LECTII_!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.csproj.CoreCompileInputs.cache
+C:\Users\Andreea\Documents\Andreea\LECTII_!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Atestat\Jomuzfi\Jomuzfi\bin\Debug\Jomuzfi.exe.config
+C:\Users\Andreea\Documents\Andreea\LECTII_!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Atestat\Jomuzfi\Jomuzfi\bin\Debug\Jomuzfi.exe
+C:\Users\Andreea\Documents\Andreea\LECTII_!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Atestat\Jomuzfi\Jomuzfi\bin\Debug\Jomuzfi.pdb
+C:\Users\Andreea\Documents\Andreea\LECTII_!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.exe
+C:\Users\Andreea\Documents\Andreea\LECTII_!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.pdb
+C:\Users\Andreea\Documents\Andreea\LECTII_!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.UserForm.resources
+C:\Users\Andreea\Documents\Andreea\LECTII_!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.AdminForm.resources
+C:\Users\Andreea\Documents\Andreea\LECTII_!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.AddInUserForm.resources
+C:\Users\Andreea\Documents\Andreea\LECTII_!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.DeleteInUserForm.resources
+C:\Users\Andreea\Documents\Andreea\LECTII_!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.MovielistInUser.resources
+C:\Users\Andreea\Documents\Andreea\LECTII_!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.WatchlistInUser.resources
+C:\Users\Floricele\Desktop\Andreea\Atestat\Jomuzfi\Jomuzfi\bin\Debug\Jomuzfi.exe.config
+C:\Users\Floricele\Desktop\Andreea\Atestat\Jomuzfi\Jomuzfi\bin\Debug\Jomuzfi.exe
+C:\Users\Floricele\Desktop\Andreea\Atestat\Jomuzfi\Jomuzfi\bin\Debug\Jomuzfi.pdb
+C:\Users\Floricele\Desktop\Andreea\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.csprojAssemblyReference.cache
+C:\Users\Floricele\Desktop\Andreea\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.UserForm.resources
+C:\Users\Floricele\Desktop\Andreea\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.AdminForm.resources
+C:\Users\Floricele\Desktop\Andreea\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.Properties.Resources.resources
+C:\Users\Floricele\Desktop\Andreea\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.WatchlistInUser.resources
+C:\Users\Floricele\Desktop\Andreea\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.csproj.GenerateResource.cache
+C:\Users\Floricele\Desktop\Andreea\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.csproj.CoreCompileInputs.cache
+C:\Users\Floricele\Desktop\Andreea\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.exe
+C:\Users\Floricele\Desktop\Andreea\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.pdb
+C:\Users\Floricele\Desktop\Andreea\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.AddInAdmin.resources
+C:\Users\Floricele\Desktop\Andreea\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.DeleteInAdmin.resources
+C:\Users\Floricele\Desktop\Andreea\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.EditInAdmin.resources
+C:\Users\Floricele\Desktop\Andreea\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.Login.resources
+C:\Users\Floricele\Desktop\Andreea\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.Movielist.resources
+G:\Desktop\Atestat\Jomuzfi\Jomuzfi\bin\Debug\Jomuzfi.exe.config
+G:\Desktop\Atestat\Jomuzfi\Jomuzfi\bin\Debug\Jomuzfi.exe
+G:\Desktop\Atestat\Jomuzfi\Jomuzfi\bin\Debug\Jomuzfi.pdb
+G:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.csprojAssemblyReference.cache
+G:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.AddInAdmin.resources
+G:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.DeleteInAdmin.resources
+G:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.EditInAdmin.resources
+G:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.Login.resources
+G:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.UserForm.resources
+G:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.AdminForm.resources
+G:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.Movielist.resources
+G:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.Properties.Resources.resources
+G:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.WatchlistInUser.resources
+G:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.csproj.GenerateResource.cache
+G:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.csproj.CoreCompileInputs.cache
+G:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.exe
+G:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.pdb
+D:\Desktop\Atestat\Jomuzfi\Jomuzfi\bin\Debug\Jomuzfi.exe.config
+D:\Desktop\Atestat\Jomuzfi\Jomuzfi\bin\Debug\Jomuzfi.exe
+D:\Desktop\Atestat\Jomuzfi\Jomuzfi\bin\Debug\Jomuzfi.pdb
+D:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.csprojAssemblyReference.cache
+D:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.AddInAdmin.resources
+D:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.DeleteInAdmin.resources
+D:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.EditInAdmin.resources
+D:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.Login.resources
+D:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.UserForm.resources
+D:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.AdminForm.resources
+D:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.Movielist.resources
+D:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.Properties.Resources.resources
+D:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.WatchlistInUser.resources
+D:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.csproj.GenerateResource.cache
+D:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.csproj.CoreCompileInputs.cache
+D:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.exe
+D:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.pdb
+D:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.AddInUser.resources
+D:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.DeleteInUser.resources
+H:\Desktop\Atestat\Jomuzfi\Jomuzfi\bin\Debug\Jomuzfi.exe.config
+H:\Desktop\Atestat\Jomuzfi\Jomuzfi\bin\Debug\Jomuzfi.exe
+H:\Desktop\Atestat\Jomuzfi\Jomuzfi\bin\Debug\Jomuzfi.pdb
+H:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.csprojAssemblyReference.cache
+H:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.AddInAdmin.resources
+H:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.AddInUser.resources
+H:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.DeleteInAdmin.resources
+H:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.DeleteInUser.resources
+H:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.EditInAdmin.resources
+H:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.Login.resources
+H:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.PreUser.resources
+H:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.UserForm.resources
+H:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.AdminForm.resources
+H:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.Movielist.resources
+H:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.Properties.Resources.resources
+H:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.WatchlistInUser.resources
+H:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.csproj.GenerateResource.cache
+H:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.csproj.CoreCompileInputs.cache
+H:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.exe
+H:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.pdb
+H:\Desktop\Atestat\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.SpieleForm.resources
+C:\Users\Asus\Desktop\Atestat2019_2021\Jomuzfi\Jomuzfi\bin\Debug\Jomuzfi.exe.config
+C:\Users\Asus\Desktop\Atestat2019_2021\Jomuzfi\Jomuzfi\bin\Debug\Jomuzfi.exe
+C:\Users\Asus\Desktop\Atestat2019_2021\Jomuzfi\Jomuzfi\bin\Debug\Jomuzfi.pdb
+C:\Users\Asus\Desktop\Atestat2019_2021\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Atestat2019_2021\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.AddInAdmin.resources
+C:\Users\Asus\Desktop\Atestat2019_2021\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.AddInUser.resources
+C:\Users\Asus\Desktop\Atestat2019_2021\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.DeleteInAdmin.resources
+C:\Users\Asus\Desktop\Atestat2019_2021\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.DeleteInUser.resources
+C:\Users\Asus\Desktop\Atestat2019_2021\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.EditInAdmin.resources
+C:\Users\Asus\Desktop\Atestat2019_2021\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.Login.resources
+C:\Users\Asus\Desktop\Atestat2019_2021\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.PreUser.resources
+C:\Users\Asus\Desktop\Atestat2019_2021\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.SpieleForm.resources
+C:\Users\Asus\Desktop\Atestat2019_2021\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.UserForm.resources
+C:\Users\Asus\Desktop\Atestat2019_2021\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.AdminForm.resources
+C:\Users\Asus\Desktop\Atestat2019_2021\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.Movielist.resources
+C:\Users\Asus\Desktop\Atestat2019_2021\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.Properties.Resources.resources
+C:\Users\Asus\Desktop\Atestat2019_2021\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.WatchlistInUser.resources
+C:\Users\Asus\Desktop\Atestat2019_2021\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Atestat2019_2021\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Atestat2019_2021\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.exe
+C:\Users\Asus\Desktop\Atestat2019_2021\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.pdb
+C:\Users\Asus\Desktop\Atestat ok\Jomuzfi\Jomuzfi\bin\Debug\Jomuzfi.exe.config
+C:\Users\Asus\Desktop\Atestat ok\Jomuzfi\Jomuzfi\bin\Debug\Jomuzfi.exe
+C:\Users\Asus\Desktop\Atestat ok\Jomuzfi\Jomuzfi\bin\Debug\Jomuzfi.pdb
+C:\Users\Asus\Desktop\Atestat ok\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Atestat ok\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.AddInAdmin.resources
+C:\Users\Asus\Desktop\Atestat ok\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.AddInUser.resources
+C:\Users\Asus\Desktop\Atestat ok\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.DeleteInAdmin.resources
+C:\Users\Asus\Desktop\Atestat ok\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.DeleteInUser.resources
+C:\Users\Asus\Desktop\Atestat ok\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.EditInAdmin.resources
+C:\Users\Asus\Desktop\Atestat ok\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.Login.resources
+C:\Users\Asus\Desktop\Atestat ok\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.PreUser.resources
+C:\Users\Asus\Desktop\Atestat ok\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.SpieleForm.resources
+C:\Users\Asus\Desktop\Atestat ok\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.UserForm.resources
+C:\Users\Asus\Desktop\Atestat ok\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.AdminForm.resources
+C:\Users\Asus\Desktop\Atestat ok\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.Movielist.resources
+C:\Users\Asus\Desktop\Atestat ok\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.Properties.Resources.resources
+C:\Users\Asus\Desktop\Atestat ok\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.WatchlistInUser.resources
+C:\Users\Asus\Desktop\Atestat ok\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Atestat ok\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Atestat ok\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.exe
+C:\Users\Asus\Desktop\Atestat ok\Jomuzfi\Jomuzfi\obj\Debug\Jomuzfi.pdb
